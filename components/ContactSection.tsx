@@ -25,7 +25,7 @@ Serviço: ${formData.service}
 Mensagem: ${formData.message}
     `.trim();
 
-    const whatsappUrl = `https://wa.me/5543999999999?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/5543999179911?text=${encodeURIComponent(whatsappMessage)}`;
     window.open(whatsappUrl, '_blank');
   };
 
@@ -206,7 +206,7 @@ Mensagem: ${formData.message}
                   <div>
                     <h4 className="font-semibold text-white mb-1">Telefone</h4>
                     <p className="text-gray-400">
-                      (43) 99999-9999<br />
+                      (43) 9 9917-9911<br />
                       WhatsApp disponível
                     </p>
                   </div>
@@ -222,8 +222,7 @@ Mensagem: ${formData.message}
                   <div>
                     <h4 className="font-semibold text-white mb-1">E-mail</h4>
                     <p className="text-gray-400">
-                      contato@jlstecnologia.com.br<br />
-                      suporte@jlstecnologia.com.br
+                      joelson76@gmail.com
                     </p>
                   </div>
                 </div>

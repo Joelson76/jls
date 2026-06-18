@@ -21,9 +21,9 @@ export default function Footer() {
     ],
     suporte: [
       { label: "Central de Ajuda", href: "#contato" },
-      { label: "WhatsApp", href: "https://wa.me/5543999999999" },
-      { label: "E-mail", href: "mailto:contato@jlstecnologia.com.br" },
-      { label: "Telefone", href: "tel:+5543999999999" },
+      { label: "WhatsApp", href: "https://wa.me/5543999179911" },
+      { label: "E-mail", href: "mailto:joelson76@gmail.com" },
+      { label: "Telefone", href: "tel:+5543999179911" },
     ],
   };
 
@@ -40,7 +40,7 @@ export default function Footer() {
     },
     {
       icon: MessageCircle,
-      href: "https://wa.me/5543999999999",
+      href: "https://wa.me/5543999179911",
       label: "WhatsApp",
     },
   ];
