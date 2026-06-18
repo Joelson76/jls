@@ -25,7 +25,7 @@ Serviço: ${formData.service}
 Mensagem: ${formData.message}
     `.trim();
 
-    const whatsappUrl = `https://wa.me/5543999179911?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/5543991799911?text=${encodeURIComponent(whatsappMessage)}`;
     window.open(whatsappUrl, '_blank');
   };
 
@@ -206,7 +206,7 @@ Mensagem: ${formData.message}
                   <div>
                     <h4 className="font-semibold text-white mb-1">Telefone</h4>
                     <p className="text-gray-400">
-                      (43) 9 9917-9911<br />
+                      (43) 9 9179-9911<br />
                       WhatsApp disponível
                     </p>
                   </div>
